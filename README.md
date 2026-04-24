@@ -211,22 +211,22 @@ context.push(
 ## 🖼️ Capturas de la Aplicación
 
 ### 🏠 Dashboard
-![Dashboard](assets/images/dashboard.jpeg)
+![Dashboard](assets/images/dashboard.png)
 
 ### 📊 Estadísticas
-![Graficas](assets/images/graficas.jpeg)
+![Graficas](assets/images/graficas.png)
 
 ### 📋 Listado de Establecimientos
-![Listado](assets/images/listado.jpeg)
+![Listado](assets/images/listado.png)
 
 ### ➕ Crear Establecimiento
-![Crear](assets/images/crear.jpeg)
+![Crear](assets/images/crear.png)
 
 ### ✏️ Editar Establecimiento
-![Editar](assets/images/editar.jpeg)
+![Editar](assets/images/editar.png)
 
 ### ❌ Eliminación
-![Eliminar](assets/images/eliminar.jpeg)
+![Eliminar](assets/images/eliminar.png)
 
 ---
 
